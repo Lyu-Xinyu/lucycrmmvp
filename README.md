@@ -1,6 +1,6 @@
-# 📊 数据分析助手 MVP
+# 📊 CRM 助手 MVP
 
-基于 Streamlit + Claude API 的智能数据分析平台
+基于 Streamlit + Claude API 的智能CRM数据分析平台
 
 ## ✨ 功能特性
 
